@@ -1,4 +1,4 @@
-# cucumber-javaselenium
+# cucumber-java-selenium
 ## Cucumber Java Selenium framework for UI testing
 
 ## ❓ What is this Repository about?
